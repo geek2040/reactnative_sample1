@@ -3,3 +3,4 @@
 *.h linguist-vendored
 *.mm linguist-vendored
 *.M linguist-vendored
+*.js linguist-vendored=false
