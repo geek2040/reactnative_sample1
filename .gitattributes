@@ -1,6 +1,4 @@
 *.pbxproj -text
 *.m linguist-vendored
-*.h linguist-vendored
-*.mm linguist-vendored
-*.M linguist-vendored
-*.js linguist-vendored=false
+android/* linguist-vendored=false
+ios/* linguist-vendored=false
