@@ -4,7 +4,7 @@
 
 ## Installation
 ### step 1 : 
--**Clone or Download project**
+- **Clone or Download project**
 ### step 2 : 
 ```
 npm update --save
