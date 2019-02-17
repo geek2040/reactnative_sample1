@@ -1,4 +1,8 @@
 *.pbxproj -text
 android/* linguist-vendored=false
 ios/* linguist-vendored=false
-App.js linguist-generated=true
+*.py linguist-vendored=false
+*.m linguist-vendored=false
+*.h linguist-vendored=false
+*.mm linguist-vendored=false
+*.M linguist-vendored=false
